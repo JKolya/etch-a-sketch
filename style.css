@@ -1,0 +1,23 @@
+#grid {
+  margin: auto;
+  padding: 10px;
+  background-color: #96ADC8;
+  width: 500px;
+  height: 500px;
+}
+
+.center {
+  margin: auto;
+  padding: 10px; 
+  width: 500px;
+}
+
+.cell {
+    outline: .5px solid;
+    float: left;
+    background-color: #96ADC8;
+}
+
+.hover {
+  background-color: #FCFF6C;
+}
